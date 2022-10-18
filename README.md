@@ -62,10 +62,15 @@ plt.show()
 
 ## Output:
 ![op1](https://user-images.githubusercontent.com/93427303/196491270-d83638e5-3596-45af-99cc-3be9c892280a.png)
+
 ![op2](https://user-images.githubusercontent.com/93427303/196491294-5032a4d0-28ea-4464-8f60-9f3e15e15fa8.png)
+
 ![op3](https://user-images.githubusercontent.com/93427303/196491316-4f09f6c0-00f3-488f-8d7d-ea135310aa77.png)
+
 ![op4](https://user-images.githubusercontent.com/93427303/196491341-05fd33f7-5737-42f5-ae76-548882474303.png)
+
 ![op5](https://user-images.githubusercontent.com/93427303/196491354-141e4c07-dccc-4508-8029-e56941a58fad.png)
+
 ![op6](https://user-images.githubusercontent.com/93427303/196491367-ef6b0679-05ab-4ebb-9d16-487d3fccdce4.png)
 
 ## Result:
